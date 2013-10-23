@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">app_name</string>
+    <string name="action_settings">Settings</string>
+	<string name="button_back">Back</string>
+	<string name="button_clear">Clear</string>
+	<string name="highscores_nickname">Nickname</string>
+	<string name="highscores_score">Score</string>
+	<string name="highscores_empty_field">...</string>
+	<string name="button_new">New</string>
+	<string name="button_highscore">Highscores</string>
+	<string name="button_exit">Exit</string>
+	<string name="game_name">Barley-Break</string>
+	
+</resources>
