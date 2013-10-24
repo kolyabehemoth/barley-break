@@ -10,18 +10,18 @@
     android:background="@drawable/gradient_background" >
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/button_exit"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/button2"
-        android:layout_below="@+id/button2"
+        android:layout_alignLeft="@+id/button_highscores"
+        android:layout_below="@+id/button_highscores"
         android:layout_marginTop="29dp"
         android:minHeight="20dip"
         android:minWidth="150dip"
         android:text="@string/button_exit" />
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/button_newgame"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
@@ -32,18 +32,18 @@
         android:text="@string/button_new" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/button_highscores"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/button1"
-        android:layout_below="@+id/button1"
+        android:layout_alignLeft="@+id/button_newgame"
+        android:layout_below="@+id/button_newgame"
         android:layout_marginTop="22dp"
         android:minHeight="25dip"
         android:minWidth="150dip"
         android:text="@string/button_highscore" />
 
     <TextView
-        android:id="@+id/textView1"
+        android:id="@+id/textview_game_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"

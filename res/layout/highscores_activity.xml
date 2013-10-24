@@ -9,9 +9,8 @@
         android:id="@+id/tableLayout1"
         android:layout_width="240dp"
         android:layout_height="320dp"
-        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="30dp" >
+        android:layout_centerVertical="true">
 
         <TableRow
             android:id="@+id/tableRow10"
@@ -20,7 +19,7 @@
             android:layout_weight="1" >
 
             <TextView
-                android:id="@+id/textView1"
+                android:id="@+id/textview_game_name"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="1px"
@@ -314,12 +313,12 @@
     </TableLayout>
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/button_newgame"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="34dp"
+        android:layout_marginBottom="18dp"
         android:minHeight="25dip"
         android:minWidth="100dip"
         android:text="@string/button_clear" />

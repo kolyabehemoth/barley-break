@@ -6,10 +6,10 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context=".SecondActivity" 
+    tools:context=".GameActivity" 
 	android:background="@drawable/gradient_background" >
 
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView2"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -18,7 +18,7 @@
        android:layout_marginLeft="95dp"
        android:layout_marginTop="92dp" />
    
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView3"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -27,7 +27,7 @@
        android:layout_marginLeft="135dp"
        android:layout_marginTop="92dp" />
    
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView4"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -36,7 +36,7 @@
        android:layout_marginLeft="175dp"
        android:layout_marginTop="92dp" />
 
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView5"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -45,7 +45,7 @@
        android:layout_marginLeft="55dp"
        android:layout_marginTop="132dp" />
    
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView6"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -54,7 +54,7 @@
        android:layout_marginLeft="95dp"
        android:layout_marginTop="132dp" />
    
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView7"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -63,7 +63,7 @@
        android:layout_marginLeft="135dp"
        android:layout_marginTop="132dp" />
    
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView8"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -72,7 +72,7 @@
        android:layout_marginLeft="175dp"
        android:layout_marginTop="132dp" />
    
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView9"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -81,7 +81,7 @@
        android:layout_marginLeft="55dp"
        android:layout_marginTop="172dp" />
    
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView10"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -90,7 +90,7 @@
        android:layout_marginLeft="95dp"
        android:layout_marginTop="172dp" />
    
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView11"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -99,7 +99,7 @@
        android:layout_marginLeft="135dp"
        android:layout_marginTop="172dp" />
    
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView12"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -108,7 +108,7 @@
        android:layout_marginLeft="175dp"
        android:layout_marginTop="172dp" />
 	
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView13"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -117,7 +117,7 @@
        android:layout_marginLeft="55dp"
        android:layout_marginTop="212dp" />
    
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView14"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -126,7 +126,7 @@
        android:layout_marginLeft="95dp"
        android:layout_marginTop="212dp" />
    
-   <com.example.app_name.view.OwnView
+   <com.app_name.view.OwnView
        android:id="@+id/ownView15"
        android:layout_width="35dp"
        android:layout_height="35dp"
@@ -135,7 +135,7 @@
        android:layout_marginLeft="135dp"
        android:layout_marginTop="212dp" />
 
-	<com.example.app_name.view.OwnView
+	<com.app_name.view.OwnView
 	    android:id="@+id/ownView1"
 	    android:layout_width="35dp"
 	    android:layout_height="35dp"
